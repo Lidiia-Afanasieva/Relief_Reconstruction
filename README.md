@@ -65,6 +65,5 @@ forward	|Полёт вперёд
 rotate	|Поворот в заданном направлении
 
 Структурная схема ПО:
+
 ![image](https://github.com/Lidiia-Afanasieva/Relief_Reconstruction/assets/67696613/ce36d55c-6191-45fb-9947-576941868b1e)
-
-
