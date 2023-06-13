@@ -55,9 +55,9 @@ img_render	|Рендер отдельных кадров
 h1 meandr_flight.py
 Полёт по опорной траектории в виде меандра. 
 Обязательный стек:
-ROS noetic
-Gazebo 11
-Hector Quadrotor
+-ROS noetic
+-Gazebo 11
+-Hector Quadrotor
 
 Имя функции	|Краткое описание
 ------------|-----------------
